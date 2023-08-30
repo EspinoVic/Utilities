@@ -6,8 +6,13 @@ sudo apt-get update
 sudo apt-get install ca-certificates curl gnupg
 
 #Add Docker's official GPG key:
+#apt-key is a program that is used to manage a keyring of gpg keys for secure apt.
+#gpg is the tool used in secure apt to sign files and check their signatures
+
+gpg is the tool used in secure apt to sign files and check their signatures
 sudo install -m 0755 -d /etc/apt/keyrings
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+#change the access permissions -- all permissions to all usser for this file
 sudo chmod a+r /etc/apt/keyrings/docker.gpg
 
 #Use the following command to set up the repository:
