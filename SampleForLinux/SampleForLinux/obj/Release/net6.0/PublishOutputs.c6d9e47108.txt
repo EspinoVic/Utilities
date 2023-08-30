@@ -1,0 +1,7 @@
+G:\Net Core\SampleForLinux\SampleForLinux\SampleForLinux\obj\Release\net6.0\PubTmp\Out\SampleForLinux.exe
+G:\Net Core\SampleForLinux\SampleForLinux\SampleForLinux\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+G:\Net Core\SampleForLinux\SampleForLinux\SampleForLinux\obj\Release\net6.0\PubTmp\Out\appsettings.json
+G:\Net Core\SampleForLinux\SampleForLinux\SampleForLinux\obj\Release\net6.0\PubTmp\Out\SampleForLinux.dll
+G:\Net Core\SampleForLinux\SampleForLinux\SampleForLinux\obj\Release\net6.0\PubTmp\Out\SampleForLinux.deps.json
+G:\Net Core\SampleForLinux\SampleForLinux\SampleForLinux\obj\Release\net6.0\PubTmp\Out\SampleForLinux.runtimeconfig.json
+G:\Net Core\SampleForLinux\SampleForLinux\SampleForLinux\obj\Release\net6.0\PubTmp\Out\SampleForLinux.pdb

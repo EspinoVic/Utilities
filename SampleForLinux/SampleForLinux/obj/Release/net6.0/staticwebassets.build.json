@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yZUDCGbojcKSdMFZe3et0Hb5u3WxMeXAuduLxJ/ZRNs=",
+  "Source": "SampleForLinux",
+  "BasePath": "_content/SampleForLinux",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
