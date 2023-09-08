@@ -1,3 +1,4 @@
+###https://docs.docker.com/engine/install/ubuntu/
 #Remove docker packages from linux.
 for pkg in docker.io docker-doc docker-compose podman-docker containerd runc; do sudo apt-get remove $pkg; done
 
